@@ -21,3 +21,8 @@ index=main EventCode=1
 
 ## Project Files
 The full project documentation and screenshots are included in the repository.
+## Full Project Documentation
+
+You can view the full lab report here:
+
+[Windows Endpoint Monitoring Lab](./Windows%20Endpoint%20Monitoring%20Lab.pdf)
